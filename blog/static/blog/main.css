@@ -160,3 +160,16 @@ color: #FF5E4B;
 background-color: white;
 border: 1px solid #FF5E4B;
 }
+
+.about {
+font-family: Oswald;
+text-transform: uppercase;
+font-weight: 400;
+font-size: 1.2em;
+}
+
+.about-container {
+  padding-bottom: 3px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #e3e3e3;
+  }
